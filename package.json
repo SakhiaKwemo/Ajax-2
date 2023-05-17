@@ -1,0 +1,22 @@
+{
+  "name": "ajax-2",
+  "version": "1.0.0",
+  "description": "* [x] What is Ajax?\r     - paint demo\r     - local\r     - public\r     - ajax definitions\r * [x] Pros/Cons Ajax?\r * [x] Ajax Methods\r     - Vanilla JS (Basic Js)\r         - XMLHTTPRequest \"12-18 lines of code\"\r         - fetch \"2-4 lines of code\"\r     - JQuery (Library/Alternative Js)\r         - axios\r * [] Demos\r     - fetch\r         - fetch \"console\" (random fox api)\r         - fetch \"button\" (random fox api)",
+  "main": "promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakhiaKwemo/Ajax-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakhiaKwemo/Ajax-2/issues"
+  },
+  "homepage": "https://github.com/SakhiaKwemo/Ajax-2#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
